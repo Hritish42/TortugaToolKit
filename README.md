@@ -1,6 +1,5 @@
 # TortugaToolKit
 
-Written during OSEP course, for learning purposes. Used heavily during the exam with much success. Thanks to all the open source projects out there that i was able to use and learn from.
 
 ## Examples
 
